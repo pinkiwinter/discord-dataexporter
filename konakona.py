@@ -169,7 +169,7 @@ def ifexists(file):
 
 #4
 invalid_char = ['\\', '/', ':', '*', '?', '"', '<', '>', '|']   
-def sanitize_name(name):                                                     #Я ПОТЕРЯЛСЯ
+def sanitize_name(name):                                                     
     for char in invalid_char:
         if char in name:
             name = name.replace(char, '-')
